@@ -1,5 +1,5 @@
 
-# Exchange Rate Scraper
+# Exchange Rate Scraper Demo
 
 This project is a web scraper built using Python and Selenium. It extracts historical exchange rate data for various countries from the Federal Reserve website and saves the results into a CSV file.
 
